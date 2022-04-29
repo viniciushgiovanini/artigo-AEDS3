@@ -1,8 +1,10 @@
 <h1 align="center"><b> Trabalho Aeds 3: Estudo de Artigo</h1></b>  
 
 ### **Artigo**:
-**Título**:Ferramenta para Análise de Desempenho e Comparação dos Algoritmos de Compactação sem Perda Huffman e LZW  
+**Título**: Ferramenta para Análise de Desempenho e Comparação dos Algoritmos de Compactação sem Perda Huffman e LZW  
+
 **Publicação**: ???  
+
 **Autores**:
 - **Bruno Casemiro Kurzawe**    
 - **Christine Vieira Scarpato**  
