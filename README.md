@@ -1,6 +1,12 @@
 <h1 align="center"><b> Trabalho Aeds 3: Estudo de Artigo</h1></b>  
 
-### **Artigo**:
+### **Grupo**    
+1. Nome Participante 1  
+2. Nome Participante 2  
+3. Nome Participante 3  
+4. Nome Participante 4  
+5. Nome Participante 5 
+### **Detalhes do Artigo**:
 **Título**: Ferramenta para Análise de Desempenho e Comparação dos Algoritmos de Compactação sem Perda Huffman e LZW  
 
 **Publicação**: ???  
@@ -9,12 +15,7 @@
 - **Bruno Casemiro Kurzawe**    
 - **Christine Vieira Scarpato**  
   
-### **Grupo**  
-1. Nome Participante 1  
-2. Nome Participante 2  
-3. Nome Participante 3  
-4. Nome Participante 4  
-5. Nome Participante 5  
+ 
 
 ### Contextualização do Artigo  
 
