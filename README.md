@@ -9,7 +9,7 @@
 ### **Detalhes do Artigo**:
 **Título**: Ferramenta para Análise de Desempenho e Comparação dos Algoritmos de Compactação sem Perda Huffman e LZW  
 
-**Publicação**: ???  
+**Publicação**: periodicos.unesc.net/Google Scholar  
 
 **Autores**:
 - **Bruno Casemiro Kurzawe**    
